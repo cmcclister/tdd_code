@@ -1,3 +1,4 @@
+from lists.models import Item
 from django.test import TestCase
 
 class HomePageTest(TestCase):
